@@ -66,7 +66,7 @@ export default function Home() {
             {/* Bild-4 */}
             <Link href="/innovation" className="group hover:shadow-lg hover:scale-105 transition-transform">
               <Image
-                src="/shrek.jpg"
+                src="/Kontakt-icon.webp"
                 alt="Innovation"
                 width={300}
                 height={300}
