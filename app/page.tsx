@@ -59,7 +59,7 @@ export default function Home() {
                 className="rounded-lg mx-auto"
               />
               <p className="mt-4 text-lg font-medium text-white group-hover:text-gray-300">
-                .
+                Unsere Projekte
               </p>
             </Link>
 
@@ -73,7 +73,7 @@ export default function Home() {
                 className="rounded-lg mx-auto"
               />
               <p className="mt-4 text-lg font-medium text-white group-hover:text-gray-300">
-                .
+                Kontakt aufnehmen
               </p>
             </Link>
           </div>
@@ -94,7 +94,7 @@ export default function Home() {
                 Erfahre mehr
               </button>
               <button className="px-6 py-3 bg-transparent text-white border border-white font-semibold rounded-lg hover:bg-white hover:text-blue-500">
-                Kontakt aufnehmen
+                .
               </button>
             </div>
           </div>
