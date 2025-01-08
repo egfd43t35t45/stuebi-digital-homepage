@@ -64,7 +64,7 @@ export default function Home() {
             </Link>
 
             {/* Bild-4 */}
-            <Link href="/innovation" className="group hover:shadow-lg hover:scale-105 transition-transform">
+            <a href="mailto:leo.morice.sari@stuebenhofer-weg.de" className="group hover:shadow-lg hover:scale-105 transition-transform">
               <Image
                 src="/Kontakt-icon.webp"
                 alt="Innovation"
@@ -75,7 +75,7 @@ export default function Home() {
               <p className="mt-4 text-lg font-medium text-white group-hover:text-gray-300">
                 Kontakt aufnehmen
               </p>
-            </Link>
+            </a>
           </div>
         </div>
       </section>
@@ -93,9 +93,7 @@ export default function Home() {
               <button className="px-6 py-3 bg-white text-blue-500 font-semibold rounded-lg shadow-lg hover:bg-gray-200">
                 Erfahre mehr
               </button>
-              <button className="px-6 py-3 bg-transparent text-white border border-white font-semibold rounded-lg hover:bg-white hover:text-blue-500">
-                .
-              </button>
+              
             </div>
           </div>
         </div>
@@ -110,9 +108,7 @@ export default function Home() {
               height={300}
               className="rounded-lg"
             />
-            <p className="text-white text-center mt-4">
-              Erfolg ist planbar – mit den richtigen digitalen Tools.
-            </p>
+            
           </div>
         </div>
       </div>
