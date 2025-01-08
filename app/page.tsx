@@ -22,7 +22,7 @@ export default function Home() {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-center">
             {/* Bild-1 */}
-            <Link href="/https://stuebenhofer-weg.de/iserv/auth/login?_target_path=/iserv/auth/auth?_iserv_app_url%3D%2Fiserv%2F%26client_id%3D5_5p3u4yhl5ckc0ss4go44w44wk88w4s4g0c008s0cws0cowcs4o%26nonce%3D4d72b27d-0f96-4ca6-a6fb-2b0138ff9898%26redirect_uri%3Dhttps%253A%2F%2Fstuebenhofer-weg.de%2Fiserv%2Fapp%2Fauthentication%2Fredirect%26response_type%3Dcode%26scope%3Dopenid%2520uuid%2520iserv%253Asession-id%2520iserv%253Aweb-ui%2520iserv%253A2fa%253Aconfiguration%2520iserv%253Aaccess-groups%26state%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiIsImtpZCI6IjEifQ.eyJyZWRpcmVjdF91cmkiOiJodHRwczpcL1wvc3R1ZWJlbmhvZmVyLXdlZy5kZVwvaXNlcnZcLyIsIm5vbmNlIjoiNGQ3MmIyN2QtMGY5Ni00Y2E2LWE2ZmItMmIwMTM4ZmY5ODk4IiwiYWRtaW4iOmZhbHNlLCJpc3MiOiJodHRwczpcL1wvc3R1ZWJlbmhvZmVyLXdlZy5kZVwvaXNlcnZcLyIsImV4cCI6MTc0MTY5NDQ1MiwibmJmIjoxNzMzOTE4MzkyLCJpYXQiOjE3MzM5MTg0NTIsInNpZCI6IiJ9.aQpp8bKZ8e-xtCG5h98AMg73Cih9TrS3nSUmfiDCchxGbgV17_TMntesQwvdijm-KCL36Iz7FJYIGY-mXSbykA" className="group hover:shadow-lg hover:scale-105 transition-transform hover:text-red-500 hover:bg-slate-200 hover:border hover:border-black">
+            <Link href="/https://stuebenhofer-weg.de/iserv/auth/login?_target_path=/iserv/auth/auth?_iserv_app_url%3D%2Fiserv%2F%26client_id%3D5_5p3u4yhl5ckc0ss4go44w44wk88w4s4g0c008s0cws0cowcs4o%26nonce%3D4d72b27d-0f96-4ca6-a6fb-2b0138ff9898%26redirect_uri%3Dhttps%253A%2F%2Fstuebenhofer-weg.de%2Fiserv%2Fapp%2Fauthentication%2Fredirect%26response_type%3Dcode%26scope%3Dopenid%2520uuid%2520iserv%253Asession-id%2520iserv%253Aweb-ui%2520iserv%253A2fa%253Aconfiguration%2520iserv%253Aaccess-groups%26state%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiIsImtpZCI6IjEifQ.eyJyZWRpcmVjdF91cmkiOiJodHRwczpcL1wvc3R1ZWJlbmhvZmVyLXdlZy5kZVwvaXNlcnZcLyIsIm5vbmNlIjoiNGQ3MmIyN2QtMGY5Ni00Y2E2LWE2ZmItMmIwMTM4ZmY5ODk4IiwiYWRtaW4iOmZhbHNlLCJpc3MiOiJodHRwczpcL1wvc3R1ZWJlbmhvZmVyLXdlZy5kZVwvaXNlcnZcLyIsImV4cCI6MTc0MTY5NDQ1MiwibmJmIjoxNzMzOTE4MzkyLCJpYXQiOjE3MzM5MTg0NTIsInNpZCI6IiJ9.aQpp8bKZ8e-xtCG5h98AMg73Cih9TrS3nSUmfiDCchxGbgV17_TMntesQwvdijm-KCL36Iz7FJYIGY-mXSbykA" className="group hover:shadow-lg hover:scale-105 transition-transform hover:text-red-500 hover:bg-slate-200">
               <Image
                 src="/shrek.jpg"
                 alt="Digitale Strategie"
@@ -50,7 +50,7 @@ export default function Home() {
             </Link>
 
             {/* Bild-3 */}
-            <Link href="/automation" className="group hover:shadow-lg hover:scale-105 transition-transform">
+            <Link href="/teem" className="group hover:shadow-lg hover:scale-105 transition-transform">
               <Image
                 src="/shrek.jpg"
                 alt="Prozessautomatisierung"
